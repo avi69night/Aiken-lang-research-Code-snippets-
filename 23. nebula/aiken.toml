@@ -1,0 +1,12 @@
+name = 'nebula/nebula'
+version = '0.0.0'
+license = 'Apache-2.0'
+description = "Aiken contracts for project 'nebula/nebula'"
+
+dependencies = [ { name = "aiken-lang/stdlib", version = "a188cc7ca78097ae6b23dd45e92b85d3cc7dedcb", source = "github" } ]
+
+[repository]
+user = 'nebula'
+project = 'nebula'
+platform = 'github'
+
